@@ -1,0 +1,92 @@
+#register,
+#login {
+  width: 100px;
+  border: 1px solid #d6d7da;
+  padding: 0px 15px 15px 15px;
+  border-radius: 5px;
+  font-family: arial;
+  line-height: 1px;
+  color: #333333;
+  font-size: 14px;
+  background: #ffffff;
+  margin: 100px auto;
+}
+.btnleft{
+  padding-left: 50px;
+}
+
+form label,
+form input {
+  display: block;
+
+  width: 100%
+}
+.signup1{
+  padding-top: 20px;
+}
+
+form input {
+  padding: 7px;
+  border: solid 1px #2d4057;
+  border-radius: 10px;
+  ;
+
+}
+
+
+.button {
+  background-color: #2d4057;
+  border-color: #3ac162;
+  font-weight: bold;
+  padding: 15px 1px;
+  color: #ffffff;
+}
+
+.m-t-407 {
+
+  padding-bottom: 1px;
+}
+
+.errorMsg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
+
+.bheading12 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #fff;
+  padding-top: 5px !important;
+
+}
+
+.sucessMsg {
+  color: #6B8E23;
+  margin-bottom: 10px;
+}
+
+.heading {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 35px;
+  color: #fff;
+  padding-top: 5px !important;
+}
+
+.m-t-405 {
+
+  padding-bottom: 2px !important;
+}
+
+.wrapper-page {
+  margin: 1.0% auto;
+  max-width: 480px !important;
+  position: relative;
+
+}
+
+.card {
+
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 36px;
+}

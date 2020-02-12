@@ -1,0 +1,169 @@
+.bg {
+  position: absolute;
+  height: 100;
+  width: 100;
+  top: 0;
+
+
+}
+
+.signup{
+  padding-top: 30px;
+}
+
+.card-body {
+  padding-left: 50px !important;
+}
+
+.fstyle {
+  padding-left: 10px;
+}
+
+.heading {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  color: #fff;
+
+}
+
+.bheading {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #fff;
+ 
+
+}
+
+.bheading1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  color: #fff;
+  padding-top: 30px !important;
+
+}
+
+.wrapper-page1 {
+  margin: 4.8% auto;
+  max-width: 400px !important;
+  position: relative;
+
+}
+
+.m-t-401 {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.m-t-406 {
+
+  padding-bottom:1px;
+}
+
+.work-wrapper {
+  background: #342e37;
+  position: relative;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #2d4057 !important;
+  border-color: #2d4057 !important;
+}
+
+.text-muted {
+  color: #707070 !important;
+}
+
+.font-18 {
+  font-size: 18px;
+}
+
+.m-b-5 {
+  margin-bottom: 5px;
+}
+
+.logo-admin {
+  font-size: 28px;
+  line-height: 70px;
+}
+
+.logo {
+  width: 50px;
+  height: 30px;
+  padding-top: 50px;
+}
+
+.card-body hr {
+  margin: 6px 0;
+}
+
+.card {
+  border: none;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
+}
+
+.card-primary {
+  background-color: #67479e;
+  border-color: #67479e;
+}
+
+.card-success {
+  background-color: #6fd088;
+  border-color: #6fd088;
+}
+
+.card-info {
+  background-color: #4bbbce;
+  border-color: #4bbbce;
+}
+
+.card-warning {
+  background-color: #ffbb44;
+  border-color: #ffbb44;
+}
+
+.card-danger {
+  background-color: #f24734;
+  border-color: #f24734;
+}
+
+.card-header {
+  border-bottom: 1px solid rgba(10, 24, 50, 0.05);
+}
+
+@media (min-width: 576px) {
+  .card-columns {
+    -webkit-column-gap: 30px;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
+  }
+}
+
+.card-columns .card {
+  margin-bottom: 30px;
+}
+
+.wrapper-page {
+  margin: 5.5% auto;
+  max-width: 460px;
+  position: relative;
+}
+
+.wrapper-page .logo-admin {
+  font-size: 28px;
+  line-height: 70px;
+}
+
+.wrapper-page .card {
+  box-shadow: 1px 4px 45px 0 rgba(0, 0, 0, 0.1);
+}
+
+
+#status {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -20px 0 0 -20px;
+}
